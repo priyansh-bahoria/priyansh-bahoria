@@ -39,7 +39,7 @@
        height="40"/>
 </a>
 <a href="https://www.latex-project.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/latex/008080"
+  <img src="https://cdn.simpleicons.org/latex/FFFFFF"
        alt="LaTeX"
        width="40"
        height="40"/>
