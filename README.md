@@ -5,7 +5,7 @@
 
 </div>
 
-# 💻 Tech Language and Tools:
+## 💻 Tech Language and Tools:
 <br/>
 
 <!-- Programming Language -->
