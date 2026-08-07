@@ -33,12 +33,17 @@
     height="40"/>
 </a>
 <a href="https://www.markdownguide.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"
+  <img src="https://cdn.simpleicons.org/markdown/FFFFFF"
        alt="Markdown"
        width="40"
-       height="40"
+       height="40"/>
 </a>
-
+<a href="https://www.latex-project.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/latex/008080"
+       alt="LaTeX"
+       width="40"
+       height="40"/>
+</a>
 
 <br/>
 
