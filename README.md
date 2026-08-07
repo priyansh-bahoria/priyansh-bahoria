@@ -1,7 +1,8 @@
-<div align="left">
 
+
+<div align="left">
 # 👋 Hi, I'm Priyansh
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Interested+in+AI+%26+Embedded+Systems;Aspiring+Software+Developer;Building+Projects+One+Commit+at+a+Time+🚀")](git.io/typing-svg) 
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Interested+in+AI+%26+Embedded+Systems;Aspiring+Software+Developer;Building+Projects+One+Commit+at+a+Time+🚀")](git.io/typing-svg) -->
 
 </div>
 
