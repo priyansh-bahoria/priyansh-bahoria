@@ -5,7 +5,8 @@
 <div align="left">
   
 # 👋 Hi, I'm Priyansh
-I am a CS student.
+I’m a Computer Science student passionate about **AI, machine learning, and embedded systems**. I enjoy building practical projects, experimenting with new technologies, and turning ideas into working solutions. Currently, I’m focused on growing as a software developer while exploring projects that combine intelligent systems with real-world applications.
+
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Interested+in+AI+%26+Embedded+Systems;Aspiring+Software+Developer;Building+Projects+One+Commit+at+a+Time+🚀")](git.io/typing-svg) -->
 
