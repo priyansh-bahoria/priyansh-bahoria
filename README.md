@@ -68,8 +68,7 @@ I’m a Computer Science student passionate about **AI, machine learning, and em
 
 ## 📊 GitHub Stats:
 
-![](https://streak-stats.demolab.com/?user=priyansh-bahoria&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=priyansh-bahoria&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/priyansh-bahoria=DenverCoder1)](https://git.io/streak-stats)
 
 <br/>
 
