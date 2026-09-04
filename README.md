@@ -47,7 +47,12 @@ I’m a Computer Science student passionate about **AI, machine learning, and em
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshbahoria) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ipriyanshbahoria@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ipriyanshbahoria@gmail.com) 
+<p align="left">
+<a href="https://linkedin.com/in/priyanshbahoria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshbahoria" height="30" width="40" /></a>
+
+
+</p>
 
 <picture>
   <source
