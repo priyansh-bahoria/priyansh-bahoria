@@ -48,8 +48,7 @@ I’m a Computer Science student passionate about **AI, machine learning, and em
 
 ## 🌐 Socials:
 <p align="left">
-<a href="mailto:ipriyanshbahoria@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" align="center" alt="GMAIL" style="vertical-align:top; margin:4 px"></a>
+<a href="mailto:ipriyanshbahoria@gmail.com"><img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/gmail.svg" align="center" alt="GMAIL" style="vertical-align:top; margin:4 px"></a>
 <a href="https://linkedin.com/in/priyanshbahoria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshbahoria" height="30" width="40" /></a>
 
 
