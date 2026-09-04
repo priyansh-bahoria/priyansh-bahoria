@@ -70,9 +70,5 @@ I’m a Computer Science student passionate about **AI, machine learning, and em
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=priyansh-bahoria&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=priyansh-bahoria&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=priyansh-bahoria&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
