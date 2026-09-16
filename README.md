@@ -4,7 +4,7 @@
 
 <div align="left">
   
-# 👋 Hi, I'm Priyansh
+# 👋 Hi, I'm Priyansh Bahoria.
 I’m a Computer Science student passionate about **AI, machine learning, and embedded systems**. I enjoy building practical projects, experimenting with new technologies, and turning ideas into working solutions. Currently, I’m focused on growing as a software developer while exploring projects that combine intelligent systems with real-world applications.
 
 
